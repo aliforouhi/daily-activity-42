@@ -1,5 +1,5 @@
 # daily_update.py
-import datetime
+import datetim
 import random
 
 print("Daily GitHub activity - Day 42")
